@@ -1,0 +1,22 @@
+{
+  "name": "readme-maker",
+  "version": "1.0.0",
+  "description": "Generates professional readme files for github projects through the command line interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbholt/README-Maker.git"
+  },
+  "author": "Myles Holt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbholt/README-Maker/issues"
+  },
+  "homepage": "https://github.com/mbholt/README-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
