@@ -6,3 +6,4 @@ Built with-- JavaScript, Node
 
 Link to Live Site: https://mbholt.github.io/README-Maker/
 
+Walkthrough Video: https://drive.google.com/file/d/1YEYD3fOzq1_3wjhkF06jqqlUGR67eV88/view
